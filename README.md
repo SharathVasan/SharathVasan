@@ -29,7 +29,7 @@ I am a Senior Software Engineer specializing in frontend development. With a pas
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharathVaasan&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharathVasan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharathVasan&layout=compact&theme=radical)
 
 ## 🔥 My Contributions
