@@ -11,7 +11,6 @@ I am a Senior Software Engineer specializing in frontend development. With a pas
 - 👯 I’m looking to collaborate on [Open Source Projects, Hackathons, etc.]
 - 💬 Ask me about **JavaScript, React, Next, Node, HTML5, CSS3, and Frontend Best Practices**
 - 📫 How to reach me: sharathvasan99@gmail.com
-- ⚡ Fun fact: clear out after every line
 
 ## 🛠️ Languages and Tools
 
