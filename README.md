@@ -44,8 +44,8 @@ const sharath = {
 ## 📊 GitHub Skyline
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharathVasan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharathVasan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SharathVasan&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=6e72fc&text_color=69B7FF&icon_color=F67280&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharathVasan&theme=tokyonight&background=00000000&ring=6e72fc&fire=F67280&currStreakNum=69B7FF&sideNums=69B7FF&currStreakLabel=6e72fc&sideLabels=6e72fc&dates=69B7FF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
