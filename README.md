@@ -1,5 +1,13 @@
 # 💻 Sharath Vasan | Senior Software Engineer
 
+```
+ _____                 _              _   _____             _                     
+|  ___|_ __ ___  _ __ | |_ ___ _ __  | | |  ___|_ __   ___ (_)_ __   ___  ___ _ __ 
+| |_ | '__/ _ \| '_ \| __/ _ \ '_ \ | | | |_  | '_ \ / _ \| | '_ \ / _ \/ _ \ '__|
+|  _|| | | (_) | | | | ||  __/ | | || | |  _| | | | | (_) | | | | |  __/  __/ |   
+|_|  |_|  \___/|_| |_|\__\___|_| |_||_| |_|   |_| |_|\___/|_|_| |_|\___|\___|_|   
+```
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SharathVasan&color=blueviolet)
 
 ## 🚀 Mission Control
@@ -45,8 +53,6 @@ const sharath = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Next Notion](https://github.com/SharathVasan/next-notion) | A powerful note-taking app | Next.js, React, MongoDB |
-| [Vue Dashboard](https://github.com/SharathVasan/vue-dashboard) | Responsive admin dashboard | Vue.js, Vuex, Chart.js |
-| [Go API](https://github.com/SharathVasan/go-api) | RESTful API service | Go, Gin, PostgreSQL |
 
 ## 🤝 Let's Connect!
 
@@ -70,3 +76,4 @@ while (sharath.isCoding()) {
   sharath.createAwesomeStuff();
 }
 ```
+
