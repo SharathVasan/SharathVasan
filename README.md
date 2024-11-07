@@ -19,7 +19,7 @@
 ```javascript
 const sharath = {
   role: "Senior Software Engineer",
-  focus: "Frontend Development",
+  focus: "Scalable Systems",
   currentProject: "Next Notion",
   learning: ["Next.js", "Go"],
   passion: "Crafting beautiful, responsive user interfaces",
