@@ -56,9 +56,8 @@ const sharath = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Next Notion](https://github.com/SharathVasan/next-notion) | A powerful note-taking app | Next.js, React, MongoDB |
-| [Vue Dashboard](https://github.com/SharathVasan/vue-dashboard) | Responsive admin dashboard | Vue.js, Vuex, Chart.js |
-| [Go API](https://github.com/SharathVasan/go-api) | RESTful API service | Go, Gin, PostgreSQL |
+| [Next Notion](https://github.com/SharathVasan/next-notion) | A powerful note-taking app | Next.js, Tailwind, ConvexDB |
+| [Portfolio](https://github.com/SharathVasan/vue-dashboard) | Responsive admin dashboard | Next.js, Tailwind |
 
 ## 🤝 Let's Connect!
 
